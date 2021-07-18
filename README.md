@@ -6,10 +6,12 @@
 
 ## Termux Personalizado :
 
-- Remake Lite de :
-- [Predator-Theme](https://github.com/tony23x/Predator-Theme) by Tony23x
+- Super Remake de :
+- [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
 
 ## CriptoCj7 :
+
+
 * Personaliza **Termux** con shell ZSH.
 * **Autocompletado** de comandos.
 * **Teclas, traductor y comandos** extras integrados.
