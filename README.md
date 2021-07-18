@@ -1,10 +1,10 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
-## Menú Principal :
+## Menú Ayuda :
 
-## Menú Secundario : 
+## Menú Ofuscaciones : 
 
-## Termux Personalizado :
+## Menú Desofuscaciones :
 
 - Super Remake de :
 - [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
