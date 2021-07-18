@@ -18,7 +18,7 @@
 * ...y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Sintaxis :
+## Sintaxis : **ofusca --help**  /  **ofusca -h**
 ~~~
 ofusca -i (NameScript) -o (NewNameScript) -(Type)
 ~~~
