@@ -11,13 +11,18 @@
 
 ## CriptoCj7 :
 
-
-* Personaliza **Termux** con shell ZSH.
-* **Autocompletado** de comandos.
-* **Teclas, traductor y comandos** extras integrados.
-* Entrar a un **directorio** con solo escribir su nombre.
+* Ofusca Script Bash, Python y PHP.
+* 8 ofuscadores de Bash, 1 de python y 1 de PHP
+* Desofusca Script Bash </ 8 desofuscadores Bash.
+* Menús, opciones y encriptadoras secretas.
 * ...y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+
+## Sintaxis :
+~~~
+ofusca -i (NameScript) -o (NewNameScript) -(Type)
+~~~
+
 
 ## Instalación :
 
