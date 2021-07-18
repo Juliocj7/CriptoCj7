@@ -20,7 +20,7 @@
 
 ## Sintaxis :
 
-* **ofusca --help**  /  **ofusca -h**
+**ofusca --help**  /  **ofusca -h**
 
 ~~~
 ofusca -i (NameScript) -o (NewNameScript) -(Type)
