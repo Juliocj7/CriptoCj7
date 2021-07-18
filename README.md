@@ -15,8 +15,8 @@
 ## CriptoCj7 :
 
 * Ofusca Script Bash, Python y PHP.
-* 8 ofuscadores de Bash, 1 de python y 1 de PHP
-* 8 desofuscadores Bash />
+* 8 ofuscadores de Bash, 1 de python y 1 de PHP.
+* 8 desofuscadores Bash.
 * Menús, opciones y encriptadoras secretas... y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
