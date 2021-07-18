@@ -1,10 +1,13 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## Menú Ayuda :
+![Screenshot_20210718-135754_Termux](https://user-images.githubusercontent.com/81049859/126077618-7e9cdf15-b757-43af-831b-0a212049171c.png)
 
 ## Menú Ofuscaciones : 
+![Screenshot_20210718-135836_Termux](https://user-images.githubusercontent.com/81049859/126077631-cc7071e4-2e42-468f-b09b-142ba9050e50.png)
 
 ## Menú Desofuscaciones :
+![Screenshot_20210718-135915_Termux](https://user-images.githubusercontent.com/81049859/126077644-ce46882b-564a-4d71-a5da-a8d536d6f85d.png)
 
 - Super Remake de :
 - [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
