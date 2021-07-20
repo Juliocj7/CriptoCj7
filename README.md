@@ -17,7 +17,7 @@
 * Ofusca Script Bash, Python y PHP.
 * 10 ofuscadores de Bash, 2 de python y 1 de PHP.
 * Todos con sus respectivos desofuscadores!!!
-* Menús, opciones, encriptadoras secretas... y mucho más!!!
+* Guías, menús, opciones, encriptadoras secretas... y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
