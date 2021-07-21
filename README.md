@@ -4,8 +4,10 @@
 ![Screenshot_20210720-132823_Termux](https://user-images.githubusercontent.com/81049859/126369442-f9e4002a-ab9b-4481-bd26-5d8736456376.png)
 
 ## ofusca -o 
+![Screenshot_20210721-173959_Termux](https://user-images.githubusercontent.com/81049859/126564365-0604604c-ccbb-4d56-b7cc-9b2786a0440d.png)
 
 ## ofusca -d 
+![Screenshot_20210721-174024_Termux](https://user-images.githubusercontent.com/81049859/126564391-a12d492d-1bed-40ba-a4d0-bb66d81d67d6.png)
 
 - Super Remake de :
 - [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
