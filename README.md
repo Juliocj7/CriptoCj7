@@ -1,6 +1,7 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## ofusca --help
+![Screenshot_20210723-172518_Termux](https://user-images.githubusercontent.com/81049859/126843115-32a4df41-7647-4e60-a80a-2602179469b2.png)
 
 ## ofuscaciones :
 ![Screenshot_20210723-133639_Termux](https://user-images.githubusercontent.com/81049859/126821894-2a081cb4-4693-4fd5-add8-4d285220bcbc.png)
