@@ -3,11 +3,22 @@
 ## ofusca --help
 ![Screenshot_20210720-132823_Termux](https://user-images.githubusercontent.com/81049859/126369442-f9e4002a-ab9b-4481-bd26-5d8736456376.png)
 
-## ofusca -o 
-![Screenshot_20210721-173959_Termux](https://user-images.githubusercontent.com/81049859/126564365-0604604c-ccbb-4d56-b7cc-9b2786a0440d.png)
+## ofuscaciones :
+![Screenshot_20210723-133639_Termux](https://user-images.githubusercontent.com/81049859/126821894-2a081cb4-4693-4fd5-add8-4d285220bcbc.png)
+![Screenshot_20210723-133219_Termux](https://user-images.githubusercontent.com/81049859/126821911-80ef6a23-d5df-41f9-bcb0-f804a397c8cf.png)
+![Screenshot_20210723-133024_Termux](https://user-images.githubusercontent.com/81049859/126821940-5f074acb-db18-48c5-adbc-041831dfc2e4.png)
+![Screenshot_20210723-132659_Termux](https://user-images.githubusercontent.com/81049859/126821965-6f09edf0-29cf-4b73-b736-17deacad86cc.png)
+![Screenshot_20210723-132540_Termux](https://user-images.githubusercontent.com/81049859/126821986-6d0886aa-9c75-43bb-b349-efd14bc5fac0.png)
+![Screenshot_20210723-132411_Termux](https://user-images.githubusercontent.com/81049859/126821998-4a1d5cd3-007a-4a48-9996-a79359c7467d.png)
+![Screenshot_20210723-132328_Termux](https://user-images.githubusercontent.com/81049859/126822036-718e5aa1-1438-4c5f-a579-f0aaf3442b2b.png)
+![Screenshot_20210723-132241_Termux](https://user-images.githubusercontent.com/81049859/126822064-e809d7ae-9138-4685-93f4-2d51eeb860b5.png)
+![Screenshot_20210723-132114_Termux](https://user-images.githubusercontent.com/81049859/126822084-15478438-c5c6-4336-8a09-e6571bbdd64e.png)
+![Screenshot_20210723-132019_Termux](https://user-images.githubusercontent.com/81049859/126822091-7f18cc52-6a2e-4568-887e-c67ee64af08c.png)
+![Screenshot_20210723-131932_Termux](https://user-images.githubusercontent.com/81049859/126822099-d9b821bf-4804-48a3-93f1-8526c4feeaca.png)
+![Screenshot_20210723-134533_Termux](https://user-images.githubusercontent.com/81049859/126822113-67d89dcf-0f9e-40fe-8e8e-7a103d82926e.png)
+![Screenshot_20210723-134624_Termux](https://user-images.githubusercontent.com/81049859/126822126-e336b4dc-19ae-4667-88df-f084ddfb1226.png)
 
-## ofusca -d 
-![Screenshot_20210721-174024_Termux](https://user-images.githubusercontent.com/81049859/126564391-a12d492d-1bed-40ba-a4d0-bb66d81d67d6.png)
+
 
 - Super Remake de :
 - [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
