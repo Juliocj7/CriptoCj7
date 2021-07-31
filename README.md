@@ -18,16 +18,13 @@
 ![Screenshot_20210723-173927_Termux](https://user-images.githubusercontent.com/81049859/126846051-0e5256db-5423-4322-8226-09805578c6be.png)
 ![Screenshot_20210723-173436_Termux](https://user-images.githubusercontent.com/81049859/126846073-b7c94d90-2371-4583-bc52-02ff2b690cf0.png)
 
-
-
-
 - Super Remake de :
 - [ofusca](https://github.com/Anonymous-Zpt/ofusca) by Anonymous-Zpt
 
 ## CriptoCj7 :
 
-* Ofusca Script Bash, Python y PHP.
-* 10 ofuscadores de Bash, 3 de python y 1 de PHP.
+* Ofusca BashScript y PythonScript.
+* 10 ofuscadores de Bash y 3 de python.
 * Todos con sus respectivos desofuscadores!!!
 * Guías, menús, opciones, encriptadoras secretas... y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
