@@ -27,6 +27,7 @@
 * 10 ofuscadores de Bash y 3 de python.
 * Todos con sus respectivos desofuscadores!!!
 * Guías, menús, opciones, encriptadoras secretas... y mucho más!!!
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
