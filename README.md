@@ -8,7 +8,7 @@
 <summary> Qué es CriptoCj7 ? </summary>
 <br>
 
- - CriptoCj7 es mi herramienta privada de ofuscación/desofuscación 100% funcional.
+ - CriptoCj7 es mi herramienta privada de ofuscación / desofuscación 100% funcional.
  - Inicio de creación >> 2 de mayo del 2021.
  - Fin de la creación >> 20 de julio del 2021.
 
