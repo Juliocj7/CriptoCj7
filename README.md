@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7᭖᭕ᬁ⍣-svg?style=flat&color=FF0000&logo=github"></a></h1>
 
 
-<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/JulioCj7.gif" width="500" height="135"/> </p>
+<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/JulioCj7.gif" width="400" height="135"/> </p>
 
 
 <details>
