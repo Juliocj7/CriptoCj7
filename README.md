@@ -1,4 +1,18 @@
-<h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
+<h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7᭖᭕ᬁ⍣-svg?style=flat&color=FF0000&logo=github"></a></h1>
+
+
+<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/JulioCj7.gif" width="550" height="135"/> </p>
+
+
+<details>
+<summary> Qué es CriptoCj7 ? </summary>
+<br>
+
+ - CriptoCj7 es mi herramienta privada de ofuscación/desofuscación 100% funcional.
+ - Inicio de creación >> 2 de mayo del 2021.
+ - Fin de la creación >> 20 de julio del 2021.
+
+</details>
 
 ## ofusca --help
 ![Screenshot_20210817-222645_Termux](https://user-images.githubusercontent.com/81049859/129827931-c29eb228-4be1-4bfb-827b-c6be6605e112.png)
