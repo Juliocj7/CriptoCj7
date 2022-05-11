@@ -25,7 +25,8 @@
 </details>
 
 ## ofusca --help
-![Screenshot_20220511-141606_Termux](https://user-images.githubusercontent.com/81049859/167918617-35b95315-88b9-44e0-b887-458d91c476bb.png)
+![Screenshot_20220511-150406_Termux](https://user-images.githubusercontent.com/81049859/167926429-7af52236-9712-4140-b4d6-330b4a1f0dcf.png)
+
 
 
 | ofuscaciones | ofuscaciones 	|
