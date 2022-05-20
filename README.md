@@ -25,7 +25,8 @@
 </details>
 
 ## ofusca --help
-![Screenshot_20220511-150406_Termux](https://user-images.githubusercontent.com/81049859/167926429-7af52236-9712-4140-b4d6-330b4a1f0dcf.png)
+![Screenshot_20220520-161413_Termux](https://user-images.githubusercontent.com/81049859/169604168-796dbf59-8c16-4a3b-894c-790cb43cd0e7.png)
+
 
 
 
