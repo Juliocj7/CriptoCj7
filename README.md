@@ -13,7 +13,6 @@
  
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary> Qué es CriptoCj7 ? </summary>
 <br>
@@ -26,9 +25,6 @@
 
 ## ofusca --help
 ![Screenshot_20220520-161413_Termux](https://user-images.githubusercontent.com/81049859/169604168-796dbf59-8c16-4a3b-894c-790cb43cd0e7.png)
-
-
-
 
 | ofuscaciones | ofuscaciones 	|
 | ------------  | ------------ |
@@ -43,7 +39,7 @@
 
 * Ofusca BashScript y PythonScript.
 * 10 ofuscadores de Bash y 3 de python.
-* Todos con sus respectivos desofuscadores!!!
+* Todos y cada uno con sus respectivos desofuscadores.
 * Guías, menús, opciones, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -56,7 +52,6 @@
 ofusca -i (NameScript) -o (NewNameScript) -(Type)
 ~~~
 
-
 ## Instalación :
 
 * Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
@@ -65,8 +60,9 @@ ofusca -i (NameScript) -o (NewNameScript) -(Type)
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/CriptoCj7 `
 
 * ` cd CriptoCj7 `
