@@ -13,14 +13,17 @@
  
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-<details>
-<summary> Qué es CriptoCj7 ? </summary>
-<br>
-
- - CriptoCj7 es mi herramienta privada de ofuscación / desofuscación 100% funcional.
- - Inicio de creación >> 2 de mayo del 2021.
- - Fin de la creación >> 20 de julio del 2021.
-
+<details align="center">
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
+<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+<br><br>
+<p align="left"><strong><samp>「</samp><strong></p>
+<p>Qué es CriptoCj7 ?</p>
+<samp>CriptoCj7 es mi herramienta privada de ofuscación & desofuscación 100% funcional.
+Inicio de creación: 02/05/2021<br>
+Fin de la creación: 20/07/2021
+<br><br>
+<p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
 ## ofusca --help
