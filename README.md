@@ -27,7 +27,8 @@ Fin de la creación: 20/07/2021
 </details>
 
 ## ofusca --help
-![Screenshot_20220520-161413_Termux](https://user-images.githubusercontent.com/81049859/169604168-796dbf59-8c16-4a3b-894c-790cb43cd0e7.png)
+![Screenshot_20221127-110416_Termux](https://user-images.githubusercontent.com/81049859/204142361-7787bd00-5d65-4633-858a-4d04a02a39f2.png)
+![Screenshot_20221127-110502_Termux](https://user-images.githubusercontent.com/81049859/204142388-398b5bc3-085b-4d7b-85e3-2027dea68d2f.png)
 
 | ofuscaciones | ofuscaciones 	|
 | ------------  | ------------ |
@@ -41,7 +42,7 @@ Fin de la creación: 20/07/2021
 ## CriptoCj7 :
 
 * Ofusca BashScript y PythonScript.
-* 10 ofuscadores de Bash y 3 de python.
+* 11 ofuscadores de BashScript y 4 de PythonScript (con soporte para python2.7 y python3.11+).
 * Todos y cada uno con sus respectivos desofuscadores.
 * Guías, menús, opciones, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
