@@ -28,6 +28,8 @@ Fin de la creación: 20/07/2021
 
 ## ofusca --help
 ![Screenshot_20221128-151529_Termux](https://user-images.githubusercontent.com/81049859/204362340-56619de8-8385-4432-a704-d1ff289948c5.png)
+
+## ofusca -o
 ![Screenshot_20221128-151503_Termux](https://user-images.githubusercontent.com/81049859/204362360-0b53b075-04f1-4b63-b2a8-1c20a27234d2.png)
 
 | ofuscaciones | ofuscaciones 	|
@@ -41,9 +43,9 @@ Fin de la creación: 20/07/2021
 
 ## CriptoCj7 :
 
-* Ofusca BashScript y PythonScript.
+* Ofusca, encripta y/o codifica Bash y PythonScript con tan solo un comando.
 * 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
-* Guías, opciones, minificador bash, encriptadoras secretas... y mucho más!!!
+* Guías, muchas opciones, minificador bash, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
