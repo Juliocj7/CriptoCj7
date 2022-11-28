@@ -32,14 +32,24 @@ Fin de la creación: 20/07/2021
 ## ofusca -o
 ![Screenshot_20221128-151503_Termux](https://user-images.githubusercontent.com/81049859/204362360-0b53b075-04f1-4b63-b2a8-1c20a27234d2.png)
 
-| ofuscaciones | ofuscaciones 	|
+## BashScript
+| ofuscación | ofuscación 	|
 | ------------  | ------------ |
-|![Screenshot_20210723-133639_Termux](https://user-images.githubusercontent.com/81049859/126821894-2a081cb4-4693-4fd5-add8-4d285220bcbc.png)|![Screenshot_20210723-133219_Termux](https://user-images.githubusercontent.com/81049859/126821911-80ef6a23-d5df-41f9-bcb0-f804a397c8cf.png)|
-|![Screenshot_20210723-133024_Termux](https://user-images.githubusercontent.com/81049859/126821940-5f074acb-db18-48c5-adbc-041831dfc2e4.png)|![Screenshot_20210723-132659_Termux](https://user-images.githubusercontent.com/81049859/126821965-6f09edf0-29cf-4b73-b736-17deacad86cc.png)|
-|![Screenshot_20210723-132540_Termux](https://user-images.githubusercontent.com/81049859/126821986-6d0886aa-9c75-43bb-b349-efd14bc5fac0.png)|![Screenshot_20210723-132411_Termux](https://user-images.githubusercontent.com/81049859/126821998-4a1d5cd3-007a-4a48-9996-a79359c7467d.png)|
-|![Screenshot_20210723-132328_Termux](https://user-images.githubusercontent.com/81049859/126822036-718e5aa1-1438-4c5f-a579-f0aaf3442b2b.png)|![Screenshot_20210723-131932_Termux](https://user-images.githubusercontent.com/81049859/126822099-d9b821bf-4804-48a3-93f1-8526c4feeaca.png)|
-|![Screenshot_20210723-134533_Termux](https://user-images.githubusercontent.com/81049859/126822113-67d89dcf-0f9e-40fe-8e8e-7a103d82926e.png)|![Screenshot_20210723-132241_Termux](https://user-images.githubusercontent.com/81049859/126822427-b053c672-4ec0-4ec3-8c42-661011fef5d0.png)|
-|![Screenshot_20210723-173927_Termux](https://user-images.githubusercontent.com/81049859/126846051-0e5256db-5423-4322-8226-09805578c6be.png)|![Screenshot_20210723-173436_Termux](https://user-images.githubusercontent.com/81049859/126846073-b7c94d90-2371-4583-bc52-02ff2b690cf0.png)|
+|![Screenshot_20221128-170617_Termux](https://user-images.githubusercontent.com/81049859/204402954-1b8ae433-e80a-4a03-8d7c-d85cb082b898.png)|![Screenshot_20221128-170528_Termux](https://user-images.githubusercontent.com/81049859/204402993-b82a9590-2788-4465-8c6f-09d908ae7385.png)|
+|![Screenshot_20221128-170733_Termux](https://user-images.githubusercontent.com/81049859/204403010-558a5de0-544b-426a-a735-30606067dcb4.png)|![Screenshot_20221128-170836_Termux](https://user-images.githubusercontent.com/81049859/204403044-9eedd083-94ca-488c-b281-6bdc4d79de40.png)|
+|![Screenshot_20221128-170920_Termux](https://user-images.githubusercontent.com/81049859/204403063-08e35a6e-052b-428b-813d-153eb9066499.png)|![Screenshot_20221128-170955_Termux](https://user-images.githubusercontent.com/81049859/204403076-131ea541-7539-4135-841c-e149e4eb53db.png)|
+|![Screenshot_20221128-171238_Termux](https://user-images.githubusercontent.com/81049859/204403102-01bd3f9b-74c5-4f00-9e31-64c45c65a8be.png)|![Screenshot_20221128-171414_Termux](https://user-images.githubusercontent.com/81049859/204403149-8be352d1-866a-41af-b5c7-df3dcad2ab8b.png)|
+|![Screenshot_20221128-192615_Termux](https://user-images.githubusercontent.com/81049859/204403185-4f9a16cf-8ca7-4e13-a814-12ed2cf20dee.png)|![Screenshot_20221128-171113_Termux](https://user-images.githubusercontent.com/81049859/204403415-9f2444e1-32f4-4529-b33f-8a43cb4bdd28.png)|
+
+ 
+## PythonScript
+
+ 
+| ofuscación | ofuscación 	|
+| ------------  | ------------ |
+|![Screenshot_20221128-185613_Termux](https://user-images.githubusercontent.com/81049859/204403227-2c26bef1-e7a4-4a4f-9799-a71c2a7da276.png)|![Screenshot_20221128-185654_Termux](https://user-images.githubusercontent.com/81049859/204403248-9aae5054-cb94-4a89-a7ae-590305baff1d.png)|
+|![Screenshot_20221128-185810_Termux](https://user-images.githubusercontent.com/81049859/204403295-7b1af204-6992-4304-a679-3c9d16589c66.png)|![Screenshot_20221128-190123_Termux](https://user-images.githubusercontent.com/81049859/204403335-6028b3d1-394d-4d53-afa1-ba72fc527646.png)|
+|![Screenshot_20221128-190320_Termux](https://user-images.githubusercontent.com/81049859/204403362-d14947be-59fb-4133-9d80-a8c2f3109e63.png)|![Screenshot_20221128-193106_Termux](https://user-images.githubusercontent.com/81049859/204403382-45621229-1270-46fd-9a03-f9a6bf050563.png)|
 
 ## CriptoCj7 :
 
