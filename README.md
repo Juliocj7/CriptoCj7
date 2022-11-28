@@ -27,8 +27,8 @@ Fin de la creación: 20/07/2021
 </details>
 
 ## ofusca --help
-![Screenshot_20221127-110416_Termux](https://user-images.githubusercontent.com/81049859/204142361-7787bd00-5d65-4633-858a-4d04a02a39f2.png)
-![Screenshot_20221127-132840_Termux](https://user-images.githubusercontent.com/81049859/204151088-f8b0bfdb-e7b8-4f16-b488-b2d05e3d6a3f.png)
+![Screenshot_20221128-151529_Termux](https://user-images.githubusercontent.com/81049859/204362340-56619de8-8385-4432-a704-d1ff289948c5.png)
+![Screenshot_20221128-151503_Termux](https://user-images.githubusercontent.com/81049859/204362360-0b53b075-04f1-4b63-b2a8-1c20a27234d2.png)
 
 | ofuscaciones | ofuscaciones 	|
 | ------------  | ------------ |
