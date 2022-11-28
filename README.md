@@ -42,8 +42,7 @@ Fin de la creación: 20/07/2021
 ## CriptoCj7 :
 
 * Ofusca BashScript y PythonScript.
-* 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+).
-* Todos y cada uno con sus respectivos desofuscadores.
+* 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
 * Guías, opciones, minificador bash, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
