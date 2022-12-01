@@ -55,6 +55,7 @@ Fin de la creación: 20/07/2021
 
 * Ofusca, encripta y/o codifica Bash y PythonScript con tan solo un comando.
 * 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
+* Completador de argumentos de shell integrado (sólo ZSH), es decir, que con tabulaciones se tiene acceso a todas las opciones del programa.
 * Guías, muchas opciones, minificador bash, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
