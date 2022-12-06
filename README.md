@@ -30,7 +30,7 @@ Fin de la creación: 20/07/2021
 ![Screenshot_20221128-151529_Termux](https://user-images.githubusercontent.com/81049859/204362340-56619de8-8385-4432-a704-d1ff289948c5.png)
 
 ## ofusca -o
-![Screenshot_20221128-151503_Termux](https://user-images.githubusercontent.com/81049859/204362360-0b53b075-04f1-4b63-b2a8-1c20a27234d2.png)
+![Screenshot_20221206-180521_Termux](https://user-images.githubusercontent.com/81049859/206033620-b20b1c6b-c90e-415f-bbe4-c6f3d2b17340.png)
 
 ## BashScript
 | ofuscación | ofuscación 	|
@@ -55,6 +55,7 @@ Fin de la creación: 20/07/2021
 
 * Ofusca, encripta y/o codifica Bash y PythonScript con tan solo un comando.
 * 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
+* Multiofuscador turbo que permite codificar cientos de veces un mismo script con diferentes sistemas de encriptación.
 * Completador de argumentos de shell integrado (sólo ZSH), es decir, que con tabulaciones se tiene acceso a todas las opciones del programa.
 * Guías, muchas opciones, minificador bash, encriptadoras secretas... y mucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
