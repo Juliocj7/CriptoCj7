@@ -30,7 +30,7 @@ Fin de la creación: 20/07/2021
 ![Screenshot_20221128-151529_Termux](https://user-images.githubusercontent.com/81049859/204362340-56619de8-8385-4432-a704-d1ff289948c5.png)
 
 ## ofusca -o
-![Screenshot_20221206-180521_Termux](https://user-images.githubusercontent.com/81049859/206033620-b20b1c6b-c90e-415f-bbe4-c6f3d2b17340.png)
+![Screenshot_20221206-181408_Termux](https://user-images.githubusercontent.com/81049859/206035045-53ab766d-b386-4c4e-a956-18f804788b0a.png)
 
 ## BashScript
 | ofuscación | ofuscación 	|
