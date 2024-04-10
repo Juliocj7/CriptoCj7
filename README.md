@@ -27,10 +27,10 @@ Fin de la creación: 20/07/2021
 </details>
 
 ## ofusca --help
-![Screenshot_20221128-151529_Termux](https://user-images.githubusercontent.com/81049859/204362340-56619de8-8385-4432-a704-d1ff289948c5.png)
+![1000328567](https://github.com/Juliocj7/CriptoCj7/assets/81049859/3ab13119-5e16-48ec-9f05-1aed55572a01)
 
 ## ofusca -o
-![Screenshot_20221206-181408_Termux](https://user-images.githubusercontent.com/81049859/206035045-53ab766d-b386-4c4e-a956-18f804788b0a.png)
+![1000328568](https://github.com/Juliocj7/CriptoCj7/assets/81049859/da5a0643-5811-47e1-8700-c3dc868ad214)
 
 ## BashScript
 | ofuscación | ofuscación 	|
@@ -41,10 +41,7 @@ Fin de la creación: 20/07/2021
 |![Screenshot_20221128-171238_Termux](https://user-images.githubusercontent.com/81049859/204403102-01bd3f9b-74c5-4f00-9e31-64c45c65a8be.png)|![Screenshot_20221128-171414_Termux](https://user-images.githubusercontent.com/81049859/204403149-8be352d1-866a-41af-b5c7-df3dcad2ab8b.png)|
 |![Screenshot_20221128-192615_Termux](https://user-images.githubusercontent.com/81049859/204403185-4f9a16cf-8ca7-4e13-a814-12ed2cf20dee.png)|![Screenshot_20221128-171113_Termux](https://user-images.githubusercontent.com/81049859/204403415-9f2444e1-32f4-4529-b33f-8a43cb4bdd28.png)|
 
- 
 ## PythonScript
-
- 
 | ofuscación | ofuscación 	|
 | ------------  | ------------ |
 |![Screenshot_20221128-185613_Termux](https://user-images.githubusercontent.com/81049859/204403227-2c26bef1-e7a4-4a4f-9799-a71c2a7da276.png)|![Screenshot_20221128-185654_Termux](https://user-images.githubusercontent.com/81049859/204403248-9aae5054-cb94-4a89-a7ae-590305baff1d.png)|
@@ -52,7 +49,6 @@ Fin de la creación: 20/07/2021
 |![Screenshot_20221128-190320_Termux](https://user-images.githubusercontent.com/81049859/204403362-d14947be-59fb-4133-9d80-a8c2f3109e63.png)|![Screenshot_20221128-193106_Termux](https://user-images.githubusercontent.com/81049859/204403382-45621229-1270-46fd-9a03-f9a6bf050563.png)|
 
 ## CriptoCj7 :
-
 * Ofusca, encripta y/o codifica Bash y PythonScript con tan solo un comando.
 * 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
 * Multiofuscador turbo que permite codificar cientos de veces un mismo script con diferentes sistemas de encriptación.
@@ -62,11 +58,9 @@ Fin de la creación: 20/07/2021
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-
-**ofusca --help**  /  **ofusca -h**
-
+* ofusca --help  /  ofusca -h
 ~~~
-ofusca -i (NameScript) -o (NewNameScript) -(Type)
+ofusca -i <NameScript> -o <NewNameScript> -<Type>
 ~~~
 
 ## Instalación :
