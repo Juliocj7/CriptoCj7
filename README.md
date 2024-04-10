@@ -58,7 +58,7 @@ Fin de la creación: 20/07/2021
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-* ofusca --help  /  ofusca -h
+* ofusca --help  ||  ofusca -h
 ~~~
 ofusca -i <NameScript> -o <NewNameScript> -<Type>
 ~~~
