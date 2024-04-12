@@ -57,23 +57,24 @@ Fin de la creación: 20/07/2021
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Sintaxis :
-* ofusca --help  ||  ofusca -h
+## Uso :
+* Ayuda:
+~~~
+ofusca --help | -h
+~~~
+* Sintaxis:
 ~~~
 ofusca -i <NameScript> -o <NewNameScript> -<Type>
 ~~~
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/CriptoCj7 `
 
 * ` cd CriptoCj7 `
