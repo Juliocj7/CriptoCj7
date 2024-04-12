@@ -33,7 +33,7 @@ ______________________________________________________
     </a>
     <br><br>
     <p align="left"><strong><samp>「</samp></strong></p>
-    <p><i>🪄 Qué es CriptoCj7 🪄</i></p>
+    <p>🪄 <i>Qué es CriptoCj7</i> 🪄</p>
     <samp>
       <i>Esta tool es mi herramienta privada<br>
       de ofuscación y desofuscación.
