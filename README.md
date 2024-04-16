@@ -77,30 +77,35 @@ ______________________________________________________
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Uso :
+
+> [!TIP]
+> > Luego de la instalación podremos llamar a la herramienta desde cualquier directorio con el comando: ` ofusca `
+
 * Ayuda:
-~~~
+```shell
 ofusca -h, --help
-~~~
+```
 * Sintaxis:
-~~~
+```shell
 ofusca -i <NameScript> -o <NewNameScript> -<Type>
-~~~
+```
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/CriptoCj7 `
-
-* ` cd CriptoCj7 `
-
-* ` chmod +x * `
-
-* ` bash CriptoCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/CriptoCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd CriptoCj7 && chmod +x * && ./CriptoCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
