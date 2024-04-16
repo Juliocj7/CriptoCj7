@@ -68,7 +68,7 @@ ______________________________________________________
 |![Screenshot_20221128-190320_Termux](https://user-images.githubusercontent.com/81049859/204403362-d14947be-59fb-4133-9d80-a8c2f3109e63.png)|![Screenshot_20221128-193106_Termux](https://user-images.githubusercontent.com/81049859/204403382-45621229-1270-46fd-9a03-f9a6bf050563.png)|
 
 ## CriptoCj7 :
-* Ofusca, encripta y/o codifica Bash y PythonScript con tan solo un comando.
+* Ofusca, cifra, encripta, codifica scripts escritos en Bash y Python de forma fácil y sencilla.
 * 12 ofuscadores de BashScript y 4 para PythonScript (con soporte para py2.7 y py3.11+), todos y cada uno con sus respectivos desofuscadores.
 * Multiofuscador turbo que permite codificar cientos de veces un mismo script con diferentes sistemas de encriptación.
 * Completador de argumentos de shell integrado (sólo ZSH), es decir, que con tabulaciones se tiene acceso a todas las opciones del programa.
