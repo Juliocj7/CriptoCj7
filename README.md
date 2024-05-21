@@ -46,10 +46,10 @@ ______________________________________________________
 </div>
 
 ## Menú de Ayuda :
-![1000328567](https://github.com/Juliocj7/CriptoCj7/assets/81049859/3ab13119-5e16-48ec-9f05-1aed55572a01)
+![1000348833](https://github.com/Juliocj7/CriptoCj7/assets/81049859/13394e12-2f93-49e7-808b-cfb85d6aafa1)
 
 ## Ofuscaciones :
-![1000328568](https://github.com/Juliocj7/CriptoCj7/assets/81049859/da5a0643-5811-47e1-8700-c3dc868ad214)
+![1000348834](https://github.com/Juliocj7/CriptoCj7/assets/81049859/71d39f19-89c4-4ca7-8724-8d82818e5288)
 
 ## BashScript
 | sample | sample 	|
